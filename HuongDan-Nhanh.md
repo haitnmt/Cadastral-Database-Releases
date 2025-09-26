@@ -8,14 +8,12 @@ https://github.com/haitnmt/Cadastral-Database-Releases/releases/latest
 
 ### 🔥 3 BƯỚC DUY NHẤT:
 
-**Bước 1:** Tải về 3 file từ phiên bản cuối, để chung 1 chỗ
+**Bước 1:** Tải về file nén từ phiên bản cuối
 ```
-✅ CaiDat-CadastralApp.bat
-✅ Haihv.CadastralDatabase.Maui.AppBlazor_*.msix  
-✅ Haihv.CadastralDatabase.Maui.AppBlazor_*.cer
+✅ CadastralDatabase-Setup.zip
 ```
 
-**Bước 2:** Chuột phải file `CaiDat-CadastralApp.bat` → "Chạy với quyền quản trị"
+**Bước 2:** Giải nén file ZIP → Chuột phải file `CaiDat-CadastralApp.bat` → "Chạy với quyền quản trị"
 
 **Bước 3:** Chờ cài xong → Mở ứng dụng từ menu Start
 
@@ -31,9 +29,10 @@ https://github.com/haitnmt/Cadastral-Database-Releases/releases/latest
 
 ## ❌ GẶP LỖI?
 
-**"Không tìm thấy file"** → Kiểm tra cả 3 file cùng thư mục  
+**"Không tìm thấy file"** → Kiểm tra file ZIP đã giải nén đúng chưa  
 **"Không có quyền"** → Chuột phải → "Chạy với quyền quản trị"  
 **"Chứng chỉ lỗi"** → Tắt antivirus tạm thời  
+**"File ZIP lỗi"** → Tải lại từ releases chính thức  
 
 ---
 

@@ -7,12 +7,10 @@ https://github.com/haitnmt/Cadastral-Database-Releases/releases/latest
 ## Cách Cài Đặt
 
 ### Cài Đặt Lần Đầu Tiên
-1. **Tải về 3 file từ phiên bản cuối:**
-   - `CaiDat-CadastralApp.bat` (file cài đặt)
-   - `Haihv.CadastralDatabase.Maui.AppBlazor_*.msix` (ứng dụng)
-   - `Haihv.CadastralDatabase.Maui.AppBlazor_*.cer` (chứng chỉ)
+1. **Tải về file nén từ phiên bản cuối:**
+   - `CadastralDatabase-Setup.zip` (chứa đầy đủ file cài đặt)
 
-2. **Để cả 3 file trong cùng 1 thư mục**
+2. **Giải nén file ZIP** vào một thư mục bất kỳ
 
 3. **Nhấp chuột phải** vào `CaiDat-CadastralApp.bat` → **"Chạy với quyền quản trị"**
 

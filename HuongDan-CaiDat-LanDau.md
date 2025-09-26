@@ -6,13 +6,18 @@ https://github.com/haitnmt/Cadastral-Database-Releases/releases/latest
 
 ## Cài Đặt Lần Đầu Tiên
 
-### Bước 1: Tải về 3 file cần thiết
-Tải về 3 file này từ phiên bản cuối và để chung trong 1 thư mục:
-- `CaiDat-CadastralApp.bat` (file cài đặt tự động)
-- `Haihv.CadastralDatabase.Maui.AppBlazor_*.msix` (ứng dụng)
-- `Haihv.CadastralDatabase.Maui.AppBlazor_*.cer` (chứng chỉ)
+### Bước 1: Tải về file nén
+Từ trang releases, tải về file nén:
+- `CadastralDatabase-Setup.zip` (chứa đầy đủ file cài đặt)
 
-### Bước 2: Chạy file cài đặt
+### Bước 2: Giải nén và chuẩn bị
+1. Giải nén file `CadastralDatabase-Setup.zip` vào một thư mục tùy chọn
+2. Trong thư mục giải nén sẽ có 3 file:
+   - `CaiDat-CadastralApp.bat` (file cài đặt tự động)
+   - `Haihv.CadastralDatabase.Maui.AppBlazor_*.msix` (ứng dụng)
+   - `Haihv.CadastralDatabase.Maui.AppBlazor_*.cer` (chứng chỉ)
+
+### Bước 3: Chạy file cài đặt
 1. Nhấp chuột phải vào file `CaiDat-CadastralApp.bat`
 2. Chọn "Chạy với quyền quản trị" hoặc "Run as administrator"
 3. Chờ cài đặt hoàn tất
@@ -26,11 +31,16 @@ Sau khi cài đặt lần đầu:
 - Nhấp "Cập nhật" để tự động cài đặt phiên bản mới
 - Không cần quyền quản trị cho các lần cập nhật sau
 
-## Gỡ Lỗi
+### Gỡ Lỗi
 
 ### Lỗi: "Không tìm thấy file chứng chỉ"
-**Nguyên nhân:** 3 file không cùng thư mục
-**Cách sửa:** Đặt cả 3 file trong cùng một thư mục
+**Nguyên nhân:** File chưa được giải nén đúng cách hoặc thiếu file
+**Cách sửa:** 
+- Kiểm tra lại file ZIP có tải đúng không
+- Giải nén lại và đảm bảo 3 file cùng thư mục
+
+### Lỗi: "File ZIP bị hỏng"
+**Cách sửa:** Tải lại file ZIP từ releases và thử giải nén bằng công cụ khác (WinRAR, 7-Zip)
 
 ### Lỗi: "Không có quyền quản trị"
 **Cách sửa:** Nhấp chuột phải file bat → "Chạy với quyền quản trị"
@@ -44,4 +54,7 @@ Nếu gặp vấn đề, vui lòng liên hệ qua [GitHub Issues](https://github
 
 ---
 
-**Lưu ý quan trọng:** Chỉ cần cài đặt thủ công lần đầu tiên. Các phiên bản sau sẽ tự động cập nhật!
+**Lưu ý quan trọng:** 
+- Chỉ cần cài đặt thủ công lần đầu tiên. Các phiên bản sau sẽ tự động cập nhật!
+- Đảm bảo tải file ZIP từ trang releases chính thức để tránh file bị hỏng
+- Sau khi cài đặt xong có thể xóa thư mục giải nén
