@@ -1,12 +1,16 @@
-# Ứng Dụng Cadastral Database - Phiên Bản 1.0.4
+# Ứng Dụng Cadastral Database
+
+## Truy Cập Phiên Bản Cuối
+
+https://github.com/haitnmt/Cadastral-Database-Releases/releases/latest
 
 ## Cách Cài Đặt
 
 ### Cài Đặt Lần Đầu Tiên
-1. **Tải về 3 file:**
-   - `CaiDat-CadastralApp.bat`
-   - `Haihv.CadastralDatabase.Maui.AppBlazor_1.0.4.0_x64.msix`
-   - `Haihv.CadastralDatabase.Maui.AppBlazor_1.0.4.0_x64.cer`
+1. **Tải về 3 file từ phiên bản cuối:**
+   - `CaiDat-CadastralApp.bat` (file cài đặt)
+   - `Haihv.CadastralDatabase.Maui.AppBlazor_*.msix` (ứng dụng)
+   - `Haihv.CadastralDatabase.Maui.AppBlazor_*.cer` (chứng chỉ)
 
 2. **Để cả 3 file trong cùng 1 thư mục**
 
@@ -32,11 +36,9 @@
 - Kết nối internet (cho cập nhật tự động)
 
 ## Liên Hệ
-- GitHub: [haitnmt/Cadastral-Database](https://github.com/haitnmt/Cadastral-Database)
-- Issues: Báo lỗi qua GitHub Issues
+- GitHub: [haitnmt/Cadastral-Database-Releases](https://github.com/haitnmt/Cadastral-Database-Releases)
+- Issues: [Báo lỗi qua GitHub Issues](https://github.com/haitnmt/Cadastral-Database-Releases/issues)
 
 ---
 
-**Phiên bản:** 1.0.4  
-**Ngày cập nhật:** 26/09/2025  
-**Kích thước:** ~97 MB
+**Lưu ý:** Tải phiên bản mới nhất từ GitHub Releases để có trải nghiệm tốt nhất!

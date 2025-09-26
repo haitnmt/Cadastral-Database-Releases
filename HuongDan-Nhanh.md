@@ -1,14 +1,18 @@
 # HƯỚNG DẪN NHANH - CÀI ĐẶT ỨNG DỤNG
 
+## 🔗 TRUY CẬP PHIÊN BẢN CUỐI
+
+https://github.com/haitnmt/Cadastral-Database-Releases/releases/latest
+
 ## ⚡ CÁCH CÀI ĐẶT ĐỠN GIẢN NHẤT
 
 ### 🔥 3 BƯỚC DUY NHẤT:
 
-**Bước 1:** Tải về 3 file, để chung 1 chỗ
+**Bước 1:** Tải về 3 file từ phiên bản cuối, để chung 1 chỗ
 ```
 ✅ CaiDat-CadastralApp.bat
-✅ Haihv.CadastralDatabase.Maui.AppBlazor_1.0.4.0_x64.msix  
-✅ Haihv.CadastralDatabase.Maui.AppBlazor_1.0.4.0_x64.cer
+✅ Haihv.CadastralDatabase.Maui.AppBlazor_*.msix  
+✅ Haihv.CadastralDatabase.Maui.AppBlazor_*.cer
 ```
 
 **Bước 2:** Chuột phải file `CaiDat-CadastralApp.bat` → "Chạy với quyền quản trị"
@@ -35,6 +39,6 @@
 
 ## 📞 HỖ TRỢ
 
-Gặp vấn đề? Tạo GitHub Issue với thông tin lỗi chi tiết.
+Gặp vấn đề? [Tạo GitHub Issue](https://github.com/haitnmt/Cadastral-Database-Releases/issues) với thông tin lỗi chi tiết.
 
 **🎉 XONG! Đơn giản vậy thôi!**

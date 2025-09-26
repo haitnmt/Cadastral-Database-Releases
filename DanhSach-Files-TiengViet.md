@@ -1,6 +1,10 @@
 # 🇻🇳 FILES TIẾNG VIỆT CHO NGƯỜI DÙNG
 
-## 📱 **FILES CÀI ĐẶT:**
+## � TRUY CẬP PHIÊN BẢN CUỐI
+
+https://github.com/haitnmt/Cadastral-Database-Releases/releases/latest
+
+## �📱 **FILES CÀI ĐẶT:**
 - `CaiDat-CadastralApp.bat` → File cài đặt chính (nhấp chuột phải → "Chạy với quyền quản trị")
 - `CaiDat-CadastralApp.ps1` → Phiên bản PowerShell (cho người dùng advanced)
 
@@ -11,10 +15,10 @@
 
 ## 📦 **FILES CẦN THIẾT CHO CÀI ĐẶT:**
 ```
-Người dùng cần tải 3 files này về cùng 1 thư mục:
+Người dùng cần tải 3 files này về cùng 1 thư mục từ phiên bản cuối:
 ├── CaiDat-CadastralApp.bat (file cài đặt tiếng Việt)
-├── Haihv.CadastralDatabase.Maui.AppBlazor_1.0.4.0_x64.msix (ứng dụng)
-└── Haihv.CadastralDatabase.Maui.AppBlazor_1.0.4.0_x64.cer (chứng chỉ)
+├── Haihv.CadastralDatabase.Maui.AppBlazor_*.msix (ứng dụng)
+└── Haihv.CadastralDatabase.Maui.AppBlazor_*.cer (chứng chỉ)
 ```
 
 ## 🚀 **QUY TRÌNH ĐƠN GIẢN:**
@@ -41,8 +45,8 @@ Người dùng cần tải 3 files này về cùng 1 thư mục:
 - `HuongDan-CaiDat-LanDau.md` (chi tiết hơn)
 
 ### **Files kỹ thuật (giữ nguyên):**
-- `Haihv.CadastralDatabase.Maui.AppBlazor_1.0.4.0_x64.msix`
-- `Haihv.CadastralDatabase.Maui.AppBlazor_1.0.4.0_x64.cer`  
+- `Haihv.CadastralDatabase.Maui.AppBlazor_*.msix`
+- `Haihv.CadastralDatabase.Maui.AppBlazor_*.cer`  
 - `CadastralDatabaseApp.appinstaller`
 
 ---
